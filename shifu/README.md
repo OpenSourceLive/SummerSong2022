@@ -1,6 +1,6 @@
 # Summer Song开源集市项目 —— Shifu
 
-![ShifuLogo](../img/ShifuLogo.png | width=50)
+<img src="../img/ShifuLogo.png" width="100" height="100">
 
 ## 项目地址
 
