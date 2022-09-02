@@ -16,4 +16,5 @@
 
 | 项目 | 一句话简介 | 一页纸 |
 |--|--|--|
-| | |
+| [Shifu](https://github.com/Edgenesis/shifu) | 产业IoT开源开发框架 | [Shifu README](shifu/README.md]) |
+
