@@ -24,12 +24,12 @@ EMQX 自 2013 年在 GitHub 发布开源版本以来，获得了来自 50 多个
 
 ### 任务 1： 使用EMQX发布订阅消息
 
-    1. 下载二进制包安装或使用docker部署EMQX
-    2. 准备合适的MQTT 客户端，可使用EMQX 管理控制台内置的 Websocket MQTT 客户端、[ MQTTX ](https://github.com/emqx/MQTTX/releases)之类MQTT桌面客户端、使用SDK(https://www.emqx.com/zh/mqtt-client-sdk)自行编写客户端等
-    3. 向EMQX发布消息，并能够订阅成功
+  1. 下载二进制包安装或使用docker部署EMQX
+  2. 准备合适的MQTT 客户端，可使用EMQX 管理控制台内置的 Websocket MQTT 客户端、[ MQTTX ](https://github.com/emqx/MQTTX/releases)之类MQTT桌面客户端、[ SDK ](https://www.emqx.com/zh/mqtt-client-sdk)自行编写客户端等方式
+  3. 向EMQX发布消息，并能够订阅成功
 
 ### 任务 2： 使用EMQX规则只订阅预期消息
 
-    1. 使用EMQX 管理控制台创建规则，编写SQL将指定topic1消息转发到另外topic2
-    2. 使用MQTT 客户端发布消息到topic1,topic2只订阅到经过处理的消息
+  1. 使用EMQX 管理控制台创建规则，编写SQL将指定topic1消息转发到另外topic2
+  2. 使用MQTT 客户端发布消息到topic1,topic2只订阅到经过处理的消息
    
