@@ -1,5 +1,7 @@
 # Summer Song开源集市项目 —— Shifu
 
+<img src="../img/ShifuLogo.png" width="100" height="100">
+
 ## 项目地址
 
 官网：https://shifu.run/
