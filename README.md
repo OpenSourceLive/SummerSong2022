@@ -20,3 +20,4 @@
 | [春松客服](https://www.cskefu.com) | 开源客服系统 | [春松客服 README](春松客服/README.md]) |
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | CNCF 沙箱项目，云原生 WebAssembly Runtime | [WasmEdge README](wasmedge/README.md]) |
 | [KubeSphere](https://github.com/kubesphere) |  开源容器平台 | [KubeSphere README](KubeSphere/README.md]) |
+| [EMQX](https://github.com/emqx/emqx) |  开源物联网 MQTT 消息服务器 | [EMQX README](EMQX/README.md]) |
