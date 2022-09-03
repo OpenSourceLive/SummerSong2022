@@ -21,3 +21,4 @@
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | CNCF 沙箱项目，云原生 WebAssembly Runtime | [WasmEdge README](wasmedge/README.md]) |
 | [KubeSphere](https://github.com/kubesphere) |  开源容器平台 | [KubeSphere README](KubeSphere/README.md]) |
 | [EMQX](https://github.com/emqx/emqx) |  开源物联网 MQTT 消息服务器 | [EMQX README](EMQX/README.md]) |
+| [Jina](https://github.com/jina-ai/jina) | 神经搜索框架 | [Jina README](https://github.com/jina-ai/jina) |
